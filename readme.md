@@ -27,12 +27,29 @@ AJAX stands for Asynchronous Javascript and XML. Ajax is a way to make requests 
 7.  What is CORS?
 8.  What is responsive design?
 9.  What does "use strict" do in JavaScript?
+I'm not certain, but I think strict influences how JS is interpreting the value of the this keyword and is treating variables. In strict mode the global this keyword will return undefined and I think it is impossible to drop variables from the function scope to the global scope (by not using var/let/const when defining it). 
+
 10. What are data- attributes good for?
+In requests the data attributes usually contain data pertaining to the request.
+
 11. Describe the differences between cookies, sessionStorage and localStorage
+These are all components of storing inforamtion about the communication between a client and the server. Because the web is 'stateless', servers and clients cannot identify eachother otherwise.
+Cookies - they are a package sent by the server with authentication information that is stored by the client.
+sessionStorage - can contain information duing the session on the server.
+localStorage - a client side storage system in the web browser that can contain, for example, tokens.
+
 12. What is an HTTP header? List some examples of headers you've used.
+HTTP headers are part of http communications that usually contain additional information (like authentication) about the communication. I used headers to send user information and authentication token from the front-end to the server in a project.
+
 13. What is Cross Site Scripting or XSS?
+?
+
 14. What is SQL Injection?
+SQL injection is when an unauthorized party slips SQL commands into a communication that gives instructions to the data server. These can range from gaining access to information without authorization to damaging the database consistency or even making the database unusable (DROP tables/columns/DB).
+
 15. What is Cross Site Request Forgery or CSRF?
+Cross Site Request Forgery is a form of attack that enables the attacker to hijack data from another site that is also open in the web browser on the client and use the credentials to access information on the server without authorization.
+
 16. What is Long polling?
 17. What would happen if you inserted a sorted list into a binary search tree? How can you avoid this problem?
 18. What are the advantages and disadvantages of using a linked list over an array?

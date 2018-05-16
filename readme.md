@@ -67,4 +67,4 @@ Disadvantages: You must loop through the list to find something within it, addin
 It is where the economy of the future will be built off of as the economy of the past is crumbling before us. I view web development as a means of creating services to reorganize human social systems. It is where I interface with reality and thus want to understand the house that I am living my life through. Theres a lot to this question that I could write pages.
 
 20. Tell me about your background.
- I was born on the day the music died. I know where to go but I don't know where to stand. Moving in boredom but I'm sitting around.
+ I cut down trees, I eat my lunch, I go to the lavatory. On Wednesdays I go shopping, and have buttered scones for tea.

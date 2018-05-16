@@ -63,7 +63,7 @@
     P: Getting a value from the middle (indexed value) is expensive in a linked list. Deleting from the front is less expensive.
     E:
 19. What interests you about web development?
-    P: I'll come back to this
+    P: Problem solving, creative expression, access (e.g. can do so much w/ a computer vs. to research in genomics you're looking at $1000/illumina kit)
     E:
 20. Tell me about your background.
     P: I'll come back to this

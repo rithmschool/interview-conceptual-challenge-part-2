@@ -110,3 +110,12 @@ Two protocols we use now instead of Long Polling:
 20. Tell me about your background.
 
 * My work experience is varied. I started my career in events and made my way to international education to tech to program management to edtech before starting work as a developer.
+
+//////
+Q: What happens when you go to google.com
+
+* make get request
+* go to dns server that will go to google.com
+* server checks if the route is valid
+* if yes, it will respond with text based response.
+* text is parsed by browser and turns it to html. creates the dom

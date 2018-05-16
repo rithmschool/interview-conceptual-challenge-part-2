@@ -9,10 +9,20 @@
 ## Questions
 
 1.  What is HTTP?
+HTTP stands for HyperText Transfer Protocol. This is one of the standards that underline all communications on the Internet. It pertains to the format of sending and receiving messages.
+
 2.  What is the difference between GET and POST?
+These are both HTTP verbs (request forms), but GET request asks for information, does this more openly (information is sent through the query string), and in an idempotent way, POST is used when infromation needs to be sent (posted) to the server and does it in a slightly more secure way.
+
 3.  What is REST?
+REST is a standard to architect http endpoints. Using REST ensures that all developers can quickly get up to speed and work on the system and that developers can easily target the endpoints when developing connected apps.
+
 4.  What is DNS?
+DNS servers are servers that run the Internet's addressing system. DNS servers contain all the adresses of all the domains connected to the Internet and translate it from the human readable URL to the machine readable IP address.
+
 5.  What is AJAX?
+AJAX stands for Asynchronous Javascript and XML. Ajax is a way to make requests writing JS code using, for example, the jQuery library.
+
 6.  What is the Same Origin Policy?
 7.  What is CORS?
 8.  What is responsive design?
